@@ -38,3 +38,15 @@ modal.addEventListener("click", function (e) {
   }
 });
 ```
+### Additional education: 
+[Udemy Courses] 
+*  [JavaScript Zero to Expert Complete 2021 Guide + 50 Projects](https://www.udemy.com/course/javascript-zero-to-expert-the-complete-modern-guide-build-real-apps)
+*  [The Complete 2021 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)
+
+**Skills**   | **Level**
+------------ | -------------
+HTML         | Intermediate
+CSS          | Intermediate
+Javascript   | Beginner
+Figma        | Intermediate
+English      | Advanced
